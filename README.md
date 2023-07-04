@@ -1,0 +1,2 @@
+# PlantillaMantenimientoEquiposDeComputo
+PlantillaMantenimientoEquiposDeComputo
